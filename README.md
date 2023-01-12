@@ -2,3 +2,7 @@
 
 The workflow of proposed methodology for pseudo labeling and multi teachers knowledge distillation for semantic segmentation tasks
 <img src="https://user-images.githubusercontent.com/10463142/212038721-ccf9819c-a30c-4811-9205-33256be25599.png" width="700">
+
+
+- **preprocess.py** - script for preparing the data (rasterization)
+- **main.py** - main script for reading the data, training the model and map creation
